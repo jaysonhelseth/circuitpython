@@ -1,2 +1,3 @@
-# circuitpython
-My circuit python embedded code
+# My Circuit Python Code
+
+I will have pieces of my circuit python code here for reference.
